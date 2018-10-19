@@ -6,7 +6,8 @@ How to use it:
 
 After downloading the project, open the counter project then open a cmd line then
 
-npm install
-npm start
+1 - npm install
+
+2 - npm start
 
 Thank you
